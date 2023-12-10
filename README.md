@@ -6,7 +6,7 @@
 
 <h2>Certifications</h2>
 
-[Google Cybersecurity Certificate](https://i.imgur.com/FYAnLfn.png)
+  [Google Cybersecurity Certificate](https://i.imgur.com/FYAnLfn.png)
 
 
 
