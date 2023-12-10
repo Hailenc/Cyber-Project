@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [Active Directory Home Lab](https://github.com/Hailenc/ActiveDirectoryLab/tree/main)
+[Active Directory Home Lab](https://github.com/Hailenc/ActiveDirectoryLab/tree/main)
 
 <h2>Certifications</h2>
 
-  [Google Cybersecurity Certificate](https://i.imgur.com/FYAnLfn.png)
+[Google Cybersecurity Certificate](https://i.imgur.com/FYAnLfn.png)
 
 
 
