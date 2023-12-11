@@ -8,6 +8,9 @@
 
 [Google Cybersecurity Certificate](https://i.imgur.com/FYAnLfn.png)
 
+[Google Skill Badges]
+(https://www.cloudskillsboost.google/public_profiles/78aae077-7a66-433b-af74-1d4022afc9ca)
+
 
 
 
